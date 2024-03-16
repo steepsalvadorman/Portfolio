@@ -1,0 +1,238 @@
+{
+  "basics": {
+    "name": "Steep Bratzon Salvador Mancisidor",
+    "label": "BackEnd Developer & Desarrollador Android",
+    "image": "/me.webp",
+    "email": "steepbsm@gmail.com",
+    "phone": "+51 941435268",
+    "url": "",
+    "summary": "Ingeniero de Sistemas con experiencia en el desarrollo backend y en el ecosistema Android. Apasionado por el software libre, el cloud computing y DevOps. Actualmente ampliando mis habilidades con Astro, React y Rust. He explorado tecnologías como Yew y Rocket, y siempre estoy en busca de nuevos desafíos en el campo de la tecnología. Vivo en Lima, Perú.",
+    "location": {
+      "address": "",
+      "postalCode": "15464",
+      "city": "Lima",
+      "countryCode": "PE",
+      "region": "Perú"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://www.linkedin.com/in/steepsalvador/"
+      },
+      {
+        "network": "X",
+        "username": "midudev",
+        "url": "https://x.com/SalvadorSteep"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/steepsalvadorman"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "RyB",
+      "position": "Android Jr Developer",
+      "url": "",
+      "startDate": "2024-03-01",
+      "endDate": null,
+      "summary": "Desarrollador Android principal de la aplicacion ryb-ware. Trabajando en el desarrollo de la aplicacion de la empresa, con el fin de mejorar la experiencia del usuario y la eficiencia de la aplicacion. Usando la Suite de Firebase, Room, Retrofit, Coroutines, Navigation, DataBinding, entre otros.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "NTT Data Perú",
+      "position": "Java Developer Trainee",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2019-09-02",
+      "endDate": "2020-02-01",
+      "summary": "Forme parte del equipo de desarrollo de la aplicacion WISE, una aplicacion web de red interna de servicios empresariales del banco BCP. Trabaje en el desarrollo de la aplicacion, con el fin de mejorar la experiencia del usuario y la eficiencia de la aplicacion. Usando Java, Spring Boot, JPA, Hibernate, entre otros.",
+      "highlights": [
+        "Desarrollo de aplicaciones web"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad de Lima",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Egresado",
+    "startDate": "2014-04-01",
+    "endDate": "2023-12-12",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Android", "Backend", "Kotlin", "JetBrains"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Java", "Spring Boot"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "IdeasDigitales",
+      "isActive": true,
+      "description": "Pagina web creada con React, Bootstrap que consume varias API's para mostrar imágenes y información",
+      "highlights": [
+        "En desarrollo y proximamente su publicación",
+        "Aprendiendo React y Bootstrap"
+      ],
+      "url": "https://github.com/steepsalvadorman/ReactFrontEnd",
+      "github": "https://github.com/steepsalvadorman/ReactFrontEnd"
+    },
+    {
+      "name": "ryb-ware",
+      "isActive": true,
+      "description": "Aplicacion Android - Kotlin para hacer compras a distancia segun el proveedor seleccionado y pagar el delivery",
+      "highlights": [
+        "Tu producto ideal en tus manos",
+        "En desarrollo y privado"
+      ],
+      "url": null,
+      "github": null
+    },
+    {
+      "name": "LambdaVoyage",
+      "isActive": true,
+      "description": "BackEnd de Aplicacion web hecha con Spring Boot, Docker, Redis, PostgreSQL, entre otros",
+      "highlights": [
+        "Mejor Backend de la clase de Arquitectura de Software",
+        "Java & Spring Boot"
+      ],
+      "url": "https://github.com/steepsalvadorman/LambdaVoyageBackend"
+    },
+    {
+      "name": "TheEShopWeb",
+      "isActive": true,
+      "description": "eShop para venta de productos hecha con Java, JSP, Servlets, JavaScript. Con el fin de reforzar habilidades",
+      "highlights": [
+        "Practicando Java",
+        "Reto de primer lenguaje"
+      ],
+      "url": "https://github.com/steepsalvadorman/tienda-virtual-final"
+    }
+  ]
+}
