@@ -195,7 +195,7 @@
     {
       "name": "IdeasDigitales",
       "isActive": true,
-      "description": "Pagina web creada con React, Bootstrap que consume varias API's para mostrar imágenes y información",
+      "description": "Pagina web creada con React, Bootstrap que consume varias API's para mostrar imágenes y información con el fin de crear una aplicacion completa tipo eShop",
       "highlights": [
         "En desarrollo y proximamente su publicación",
         "Aprendiendo React y Bootstrap"
